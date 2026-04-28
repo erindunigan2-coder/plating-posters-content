@@ -1,0 +1,245 @@
+COMPLETE POSTER LIST DIFFUSION & HEAT TREATMENT
+
+
+
+🔹 1. CARBURIZING (GAS / ATMOSPHERE)
+
+Carburizing – Process Flow 
+
+Safety & PPE – Carburizing 
+
+Part Preparation – Carburizing 
+
+Loading & Fixturing – Carburizing 
+
+Furnace Setup – Carburizing 
+
+Atmosphere Control – Carburizing 
+
+Heat Cycle – Carburizing 
+
+Quench – Carburizing 
+
+Temper & Inspection – Carburizing 
+
+
+
+🔹 2. VACUUM CARBURIZING (LPC)
+
+Vacuum Carburizing – Process Flow 
+
+Safety & PPE – LPC 
+
+Part Prep – LPC 
+
+Loading – LPC Furnace 
+
+Vacuum / Gas Setup 
+
+Carburizing Cycle – LPC 
+
+Cooling / Quench – LPC 
+
+Post-Treatment – LPC 
+
+Inspection & QA – LPC 
+
+
+
+🔹 3. CARBONITRIDING
+
+Carbonitriding – Process Flow 
+
+Safety & PPE – Carbonitriding 
+
+Part Prep – Carbonitriding 
+
+Loading – Carbonitriding 
+
+Furnace & Gas Setup 
+
+Carbonitriding Cycle 
+
+Quench – Carbonitriding 
+
+Temper – Carbonitriding 
+
+Inspection & QA 
+
+
+
+🔹 4. NITRIDING (GAS)
+
+Gas Nitriding – Process Flow 
+
+Safety & PPE – Nitriding 
+
+Part Prep – Nitriding 
+
+Loading – Nitriding 
+
+Atmosphere Setup – Nitriding 
+
+Nitriding Cycle 
+
+Cooling – Nitriding 
+
+Post-Treatment – Nitriding 
+
+Inspection & QA 
+
+
+
+🔹 5. NITRIDING (PLASMA / ION)
+
+Plasma Nitriding – Process Flow 
+
+Safety & PPE – Plasma 
+
+Part Prep – Plasma 
+
+Loading – Plasma System 
+
+Vacuum & Plasma Setup 
+
+Nitriding Cycle – Plasma 
+
+Cooling – Plasma 
+
+Post-Treatment – Plasma 
+
+Inspection & QA 
+
+
+
+🔹 6. FERRITIC NITROCARBURIZING (FNC / QPQ)
+
+FNC / QPQ – Process Flow 
+
+Safety & PPE – FNC 
+
+Part Prep – FNC 
+
+Loading – FNC 
+
+Salt Bath / Atmosphere Setup 
+
+Nitrocarburizing Cycle 
+
+Quench / Oxidation Stage 
+
+Post-Treatment (polish/oxidize) 
+
+Inspection & QA 
+
+
+
+🔹 7. INDUCTION HARDENING
+
+Induction Hardening – Process Flow 
+
+Safety & PPE – Induction 
+
+Part Prep – Induction 
+
+Fixturing – Induction 
+
+Coil Setup – Induction 
+
+Heating Cycle – Induction 
+
+Quench – Induction 
+
+Temper – Induction 
+
+Inspection & QA 
+
+
+
+🔹 8. FLAME HARDENING
+
+Flame Hardening – Process Flow 
+
+Safety & PPE – Flame 
+
+Part Prep – Flame 
+
+Fixturing – Flame 
+
+Flame Setup 
+
+Heating Cycle – Flame 
+
+Quench – Flame 
+
+Post-Treatment – Flame 
+
+Inspection & QA 
+
+
+
+🔹 9. AUSTEMPERING
+
+Austempering – Process Flow 
+
+Safety & PPE – Austempering 
+
+Part Prep – Austempering 
+
+Loading – Furnace 
+
+Heat Cycle – Austenitize 
+
+Transfer to Salt Bath 
+
+Hold / Transformation 
+
+Cooling – Austempering 
+
+Inspection & QA 
+
+
+
+🔹 10. MARTEMPERING
+
+Martempering – Process Flow 
+
+Safety & PPE – Martempering 
+
+Part Prep – Martempering 
+
+Loading – Furnace 
+
+Heat Cycle – Martempering 
+
+Controlled Quench 
+
+Equalization Stage 
+
+Temper – Martempering 
+
+Inspection & QA 
+
+
+
+✅ FINAL SUMMARY
+
+Category
+
+Count
+
+Processes
+
+10
+
+Posters per process
+
+9
+
+Total designs (English)
+
+90
+
+Total with Spanish
+
+180

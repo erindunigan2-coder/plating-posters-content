@@ -1,0 +1,169 @@
+COMPLETE CHEMICAL TREATMENT POSTER LIST
+
+
+
+🔹 1. ALKALINE CLEANING (SOAK)
+
+Alkaline Cleaning – Process Flow 
+
+Safety & PPE – Alkaline Cleaning 
+
+Bath Preparation & Control – Alkaline 
+
+Cleaning Stage – Alkaline 
+
+Rinse – Post-Clean 
+
+Secondary Cleaning (if required) 
+
+Inspection & Handling – Cleaned Parts 
+
+
+
+🔹 2. ELECTROCLEANING
+
+Electrocleaning – Process Flow 
+
+Safety & PPE – Electrocleaning 
+
+Bath Preparation – Electrocleaning 
+
+Anodic / Cathodic Cleaning Stage 
+
+Rinse – Post-Clean 
+
+Secondary Cleaning / Rinse 
+
+Inspection & Handling 
+
+
+
+🔹 3. ACID PICKLING (STEEL)
+
+Acid Pickling (Steel) – Process Flow 
+
+Safety & PPE – Pickling 
+
+Bath Preparation – Acid Pickling 
+
+Pickling Stage – Scale Removal 
+
+Rinse – Post-Pickle 
+
+Neutralization – Steel 
+
+Inspection & Handling 
+
+
+
+🔹 4. ACID PICKLING (STAINLESS STEEL)
+
+Pickling (Stainless) – Process Flow 
+
+Safety & PPE – Stainless Pickling 
+
+Bath Preparation – Stainless 
+
+Pickling Stage – Stainless 
+
+Rinse – Post-Pickle 
+
+Neutralization – Stainless 
+
+Inspection & Handling 
+
+
+
+🔹 5. DESCALING / HEAVY OXIDE REMOVAL
+
+Descaling – Process Flow 
+
+Safety & PPE – Descaling 
+
+Chemical Prep – Descaling 
+
+Descaling Stage 
+
+Rinse – Post-Descale 
+
+Secondary Treatment 
+
+Inspection & Handling 
+
+
+
+🔹 6. SOLVENT CLEANING / DEGREASING
+
+Solvent Cleaning – Process Flow 
+
+Safety & PPE – Solvent Cleaning 
+
+Solvent Handling & Prep 
+
+Cleaning Stage – Degreasing 
+
+Drying / Evaporation 
+
+Secondary Cleaning 
+
+Inspection & Handling 
+
+
+
+🔹 7. ULTRASONIC CLEANING
+
+Ultrasonic Cleaning – Process Flow 
+
+Safety & PPE – Ultrasonic 
+
+Bath Setup – Ultrasonic 
+
+Ultrasonic Cleaning Stage 
+
+Rinse – Post-Clean 
+
+Drying – Ultrasonic 
+
+Inspection & Handling 
+
+
+
+🔹 8. NEUTRALIZATION & RINSE SYSTEMS
+
+Neutralization & Rinse – Process Flow 
+
+Safety & PPE – Neutralization 
+
+Chemical Handling – Neutralization 
+
+Neutralization Stage 
+
+Rinse System Operation 
+
+Waste Handling / Discharge 
+
+Inspection & Monitoring 
+
+
+
+✅ FINAL SUMMARY
+
+Category
+
+Count
+
+Processes
+
+8
+
+Posters per process
+
+7
+
+Total designs (English)
+
+56
+
+Total with Spanish
+
+112

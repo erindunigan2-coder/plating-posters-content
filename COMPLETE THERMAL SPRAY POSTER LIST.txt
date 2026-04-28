@@ -1,0 +1,217 @@
+COMPLETE THERMAL SPRAY POSTER LIST
+
+
+
+🔹 1. PLASMA SPRAY (APS)
+
+Plasma Spray – Process Flow 
+
+Safety & PPE – Plasma 
+
+Cleaning – Plasma 
+
+Grit Blasting – Plasma 
+
+Masking & Fixturing – Plasma 
+
+Equipment Setup – Plasma Gun 
+
+Parameter Setup – Plasma 
+
+Spray Application – Plasma 
+
+Post-Treatment – Plasma (seal/grind) 
+
+Inspection & QA – Plasma 
+
+
+
+🔹 2. HVOF
+
+HVOF – Process Flow 
+
+Safety & PPE – HVOF 
+
+Cleaning – HVOF 
+
+Grit Blasting – HVOF 
+
+Masking & Fixturing – HVOF 
+
+Equipment Setup – HVOF Gun 
+
+Parameter Setup – HVOF 
+
+Spray Application – HVOF 
+
+Post-Treatment – HVOF 
+
+Inspection & QA – HVOF 
+
+
+
+🔹 3. FLAME SPRAY (WIRE / POWDER)
+
+Flame Spray – Process Flow 
+
+Safety & PPE – Flame 
+
+Cleaning – Flame 
+
+Grit Blasting – Flame 
+
+Masking & Fixturing – Flame 
+
+Equipment Setup – Flame Gun 
+
+Parameter Setup – Flame 
+
+Spray Application – Flame 
+
+Post-Treatment – Flame 
+
+Inspection & QA – Flame 
+
+
+
+🔹 4. ARC SPRAY (TWIN WIRE)
+
+Arc Spray – Process Flow 
+
+Safety & PPE – Arc Spray 
+
+Cleaning – Arc Spray 
+
+Grit Blasting – Arc Spray 
+
+Masking & Fixturing – Arc Spray 
+
+Equipment Setup – Arc System 
+
+Parameter Setup – Arc Spray 
+
+Spray Application – Arc Spray 
+
+Post-Treatment – Arc Spray 
+
+Inspection & QA – Arc Spray 
+
+
+
+🔹 5. COLD SPRAY
+
+Cold Spray – Process Flow 
+
+Safety & PPE – Cold Spray 
+
+Cleaning – Cold Spray 
+
+Surface Prep – Cold Spray 
+
+Masking & Fixturing – Cold Spray 
+
+Equipment Setup – Cold Spray System 
+
+Parameter Setup – Cold Spray 
+
+Spray Application – Cold Spray 
+
+Post-Treatment – Cold Spray 
+
+Inspection & QA – Cold Spray 
+
+
+
+🔹 6. DETONATION GUN (D-GUN)
+
+D-Gun Spray – Process Flow 
+
+Safety & PPE – D-Gun 
+
+Cleaning – D-Gun 
+
+Grit Blasting – D-Gun 
+
+Masking & Fixturing – D-Gun 
+
+Equipment Setup – D-Gun System 
+
+Parameter Setup – D-Gun 
+
+Spray Application – D-Gun 
+
+Post-Treatment – D-Gun 
+
+Inspection & QA – D-Gun 
+
+
+
+🔹 7. SUSPENSION PLASMA SPRAY (SPS)
+
+SPS – Process Flow 
+
+Safety & PPE – SPS 
+
+Cleaning – SPS 
+
+Surface Prep – SPS 
+
+Masking & Fixturing – SPS 
+
+Equipment Setup – SPS System 
+
+Parameter Setup – SPS 
+
+Spray Application – SPS 
+
+Post-Treatment – SPS 
+
+Inspection & QA – SPS 
+
+
+
+🔹 8. WIRE COMBUSTION SPRAY
+
+Wire Combustion Spray – Process Flow 
+
+Safety & PPE – Wire Spray 
+
+Cleaning – Wire Spray 
+
+Grit Blasting – Wire Spray 
+
+Masking & Fixturing – Wire Spray 
+
+Equipment Setup – Wire Spray System 
+
+Parameter Setup – Wire Spray 
+
+Spray Application – Wire Spray 
+
+Post-Treatment – Wire Spray 
+
+Inspection & QA – Wire Spray 
+
+
+
+✅ FINAL SUMMARY
+
+Category
+
+Count
+
+Processes
+
+8
+
+Posters per process
+
+10
+
+Total designs (English)
+
+80
+
+Total with Spanish
+
+160

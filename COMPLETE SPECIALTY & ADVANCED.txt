@@ -1,0 +1,217 @@
+COMPLETE SPECIALTY & ADVANCED POSTER LIST
+
+
+
+🔹 1. PHYSICAL VAPOR DEPOSITION (PVD)
+
+PVD – Process Flow 
+
+Safety & PPE – PVD 
+
+Part Preparation – PVD 
+
+Cleaning – PVD 
+
+Fixturing & Loading – PVD 
+
+Vacuum System Setup 
+
+Parameter Setup – PVD 
+
+Deposition Stage – PVD 
+
+Cooling & Unloading – PVD 
+
+Inspection & QA – PVD 
+
+
+
+🔹 2. CHEMICAL VAPOR DEPOSITION (CVD)
+
+CVD – Process Flow 
+
+Safety & PPE – CVD 
+
+Part Preparation – CVD 
+
+Cleaning – CVD 
+
+Fixturing & Loading – CVD 
+
+Reactor Setup – CVD 
+
+Gas & Parameter Setup 
+
+Deposition Stage – CVD 
+
+Cooling & Handling – CVD 
+
+Inspection & QA – CVD 
+
+
+
+🔹 3. PLASMA-ENHANCED CVD (PECVD)
+
+PECVD – Process Flow 
+
+Safety & PPE – PECVD 
+
+Part Prep – PECVD 
+
+Cleaning – PECVD 
+
+Loading – PECVD 
+
+Plasma System Setup 
+
+Parameter Setup – PECVD 
+
+Deposition Stage – PECVD 
+
+Cooling – PECVD 
+
+Inspection & QA – PECVD 
+
+
+
+🔹 4. ATOMIC LAYER DEPOSITION (ALD)
+
+ALD – Process Flow 
+
+Safety & PPE – ALD 
+
+Part Prep – ALD 
+
+Cleaning – ALD 
+
+Loading – ALD System 
+
+Reactor Setup – ALD 
+
+Cycle Programming – ALD 
+
+Deposition Cycles – ALD 
+
+Cooling & Handling – ALD 
+
+Inspection & QA – ALD 
+
+
+
+🔹 5. DIAMOND-LIKE CARBON (DLC)
+
+DLC Coating – Process Flow 
+
+Safety & PPE – DLC 
+
+Part Prep – DLC 
+
+Cleaning – DLC 
+
+Fixturing – DLC 
+
+Vacuum / Plasma Setup 
+
+Parameter Setup – DLC 
+
+Deposition – DLC 
+
+Cooling – DLC 
+
+Inspection & QA – DLC 
+
+
+
+🔹 6. ION IMPLANTATION
+
+Ion Implantation – Process Flow 
+
+Safety & PPE – Ion Implantation 
+
+Part Prep – Ion Implantation 
+
+Cleaning – Ion Implantation 
+
+Loading – Ion System 
+
+Beam Setup – Ion Implantation 
+
+Parameter Setup – Ion Implantation 
+
+Implantation Process 
+
+Cooling & Handling 
+
+Inspection & QA 
+
+
+
+🔹 7. ELECTROPOLISHING
+
+Electropolishing – Process Flow 
+
+Safety & PPE – Electropolishing 
+
+Cleaning – Electropolishing 
+
+Rinse – Electropolishing 
+
+Electropolishing Stage 
+
+Rinse – Post-Polish 
+
+Neutralization – Electropolishing 
+
+Drying – Electropolishing 
+
+Inspection – Surface Finish 
+
+Final Handling 
+
+
+
+🔹 8. ELECTROFORMING
+
+Electroforming – Process Flow 
+
+Safety & PPE – Electroforming 
+
+Mandrel Preparation 
+
+Cleaning – Electroforming 
+
+Setup – Electroforming 
+
+Electroforming Bath 
+
+Growth / Build Stage 
+
+Separation from Mandrel 
+
+Post-Treatment 
+
+Inspection & QA 
+
+
+
+✅ FINAL SUMMARY
+
+Category
+
+Count
+
+Processes
+
+8
+
+Posters per process
+
+10
+
+Total designs (English)
+
+80
+
+Total with Spanish
+
+160
